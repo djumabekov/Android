@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity2">
+    tools:context=".LoginActivity">
 
     <TextView
         android:id="@+id/idTVHeading"
@@ -23,8 +23,8 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Back to splash"
-            android:id="@+id/backToSplash"
+            android:text="Register"
+            android:id="@+id/idRegisterBtn"
             android:textColor="@color/white"
             android:background="@color/black"
 
